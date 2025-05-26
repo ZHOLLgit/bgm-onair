@@ -1482,7 +1482,12 @@
         { "site": "abema", "id": "25-283", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "501702" },
         { "site": "bangumi_moe", "id": "67ed5cbe8b961748467f45ef" },
-        { "site": "bilibili", "id": "25578027", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25578027",
+          "begin": "2025-04-22T14:30:00.000Z",
+          "broadcast": "R/2025-04-22T14:30:00.000Z/P7D"
+        },
         {
           "site": "crunchyroll",
           "id": "GMEHME72W",
@@ -1655,7 +1660,12 @@
         { "site": "abema", "id": "174-20", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "364844" },
         { "site": "bangumi_moe", "id": "67ed5cc88b961748467f4625" },
-        { "site": "bilibili", "id": "25550196", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25550196",
+          "begin": "2025-04-05T13:00:00.000Z",
+          "broadcast": "R/2025-04-05T13:00:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27741",
@@ -1741,7 +1751,12 @@
         { "site": "abema", "id": "593-12", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "506672" },
         { "site": "bangumi_moe", "id": "67ed5cb88b961748467f45cd" },
-        { "site": "bilibili", "id": "25546984", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25546984",
+          "begin": "2025-04-13T08:30:00.000Z",
+          "broadcast": "R/2025-04-13T08:30:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27788",
@@ -1828,7 +1843,12 @@
         },
         { "site": "bangumi", "id": "511207" },
         { "site": "bangumi_moe", "id": "67ed5cb98b961748467f45d1" },
-        { "site": "bilibili", "id": "25509561", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25509561",
+          "begin": "2025-04-06T14:30:00.000Z",
+          "broadcast": "R/2025-04-06T14:30:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27883",
@@ -1977,7 +1997,12 @@
       "sites": [
         { "site": "bangumi", "id": "506258" },
         { "site": "bangumi_moe", "id": "67ed5cc98b961748467f462d" },
-        { "site": "bilibili", "id": "25551335", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25551335",
+          "begin": "2025-04-19T15:00:00.000Z",
+          "broadcast": "R/2025-04-19T15:00:00.000Z/P7D"
+        },
         { "site": "mikan", "id": "3591" },
         { "site": "prime", "id": "B0D8Z98TZZ", "begin": "", "broadcast": "" }
       ],
@@ -2096,7 +2121,12 @@
         },
         { "site": "bangumi", "id": "484402" },
         { "site": "bangumi_moe", "id": "67ed5cc38b961748467f4609" },
-        { "site": "bilibili", "id": "25551648", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25551648",
+          "begin": "2025-04-03T15:00:00.000Z",
+          "broadcast": "R/2025-04-03T15:00:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27740",
@@ -2413,7 +2443,12 @@
       "sites": [
         { "site": "abema", "id": "13-199", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "363957" },
-        { "site": "bilibili", "id": "25572685", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25572685",
+          "begin": "2025-04-07T15:00:00.000Z",
+          "broadcast": "R/2025-04-07T15:00:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27881",
@@ -2473,7 +2508,12 @@
         { "site": "abema", "id": "218-780", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "509986" },
         { "site": "bangumi_moe", "id": "67ed5cbf8b961748467f45f5" },
-        { "site": "bilibili", "id": "25467691", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25467691",
+          "begin": "2025-04-08T17:40:00.000Z",
+          "broadcast": "R/2025-04-08T17:40:00.000Z/P7D"
+        },
         {
           "site": "crunchyroll",
           "id": "GXJHM3G58",
@@ -2748,7 +2788,12 @@
         { "site": "abema", "id": "512-12", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "509297" },
         { "site": "bangumi_moe", "id": "67ed5cb88b961748467f45cb" },
-        { "site": "bilibili", "id": "25581526", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25581526",
+          "begin": "2025-05-02T12:00:00.000Z",
+          "broadcast": "R/2025-05-02T12:00:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27862",
@@ -2842,7 +2887,12 @@
         },
         { "site": "bangumi", "id": "504678" },
         { "site": "bangumi_moe", "id": "67ed5cc38b961748467f460b" },
-        { "site": "bilibili", "id": "25577961", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25577961",
+          "begin": "2025-04-03T15:56:00.000Z",
+          "broadcast": "R/2025-04-03T15:56:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27884",
@@ -3122,7 +3172,12 @@
       "sites": [
         { "site": "bangumi", "id": "382126" },
         { "site": "bangumi_moe", "id": "67ed5cc68b961748467f461d" },
-        { "site": "bilibili", "id": "25558083", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25558083",
+          "begin": "2025-04-04T17:23:00.000Z",
+          "broadcast": "R/2025-04-04T17:23:00.000Z/P7D"
+        },
         {
           "site": "gamer",
           "id": "124471",
@@ -3181,12 +3236,17 @@
         { "site": "abema", "id": "593-1", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "506922" },
         { "site": "bangumi_moe", "id": "67ed5cbd8b961748467f45e3" },
-        { "site": "bilibili", "id": "25530455", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25530455",
+          "begin": "2025-04-07T13:00:00.000Z",
+          "broadcast": "R/2025-04-07T13:00:00.000Z/P7D"
+        },
         {
           "site": "bilibili_hk_mo_tw",
           "id": "25844927",
-          "begin": "",
-          "broadcast": ""
+          "begin": "2025-04-07T13:00:00.000Z",
+          "broadcast": "R/2025-04-07T13:00:00.000Z/P7D"
         },
         {
           "site": "danime",
@@ -3375,12 +3435,17 @@
         { "site": "abema", "id": "19-254", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "520559" },
         { "site": "bangumi_moe", "id": "67ed5cc08b961748467f45fd" },
-        { "site": "bilibili", "id": "25589743", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25589743",
+          "begin": "2025-04-22T11:00:00.000Z",
+          "broadcast": "R/2025-04-22T11:00:00.000Z/P7D"
+        },
         {
           "site": "bilibili_hk_mo_tw",
           "id": "25589985",
-          "begin": "",
-          "broadcast": ""
+          "begin": "2025-04-02T16:45:00.000Z",
+          "broadcast": "R/2025-04-02T16:45:00.000Z/P7D"
         },
         {
           "site": "crunchyroll",
@@ -3687,12 +3752,17 @@
         { "site": "abema", "id": "675-6", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "445826" },
         { "site": "bangumi_moe", "id": "67ed5cc18b961748467f45ff" },
-        { "site": "bilibili", "id": "25579052", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25579052",
+          "begin": "2025-04-02T15:15:00.000Z",
+          "broadcast": "R/2025-04-02T15:15:00.000Z/P7D"
+        },
         {
           "site": "bilibili_hk_mo_tw",
           "id": "25579102",
-          "begin": "",
-          "broadcast": ""
+          "begin": "2025-04-02T15:15:00.000Z",
+          "broadcast": "R/2025-04-02T15:15:00.000Z/P7D"
         },
         {
           "site": "danime",
@@ -4034,7 +4104,12 @@
         { "site": "abema", "id": "420-71", "begin": "", "broadcast": "" },
         { "site": "bangumi", "id": "526567" },
         { "site": "bangumi_moe", "id": "67ed5cc88b961748467f4627" },
-        { "site": "bilibili", "id": "25578108", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25578108",
+          "begin": "2025-04-05T14:00:00.000Z",
+          "broadcast": "R/2025-04-05T14:00:00.000Z/P7D"
+        },
         {
           "site": "danime",
           "id": "27791",
@@ -4660,7 +4735,12 @@
       "sites": [
         { "site": "bangumi", "id": "501919" },
         { "site": "bangumi_moe", "id": "67ed5cba8b961748467f45d5" },
-        { "site": "bilibili", "id": "25581765", "begin": "", "broadcast": "" },
+        {
+          "site": "bilibili",
+          "id": "25581765",
+          "begin": "2025-05-02T10:00:00.000Z",
+          "broadcast": "R/2025-05-02T10:00:00.000Z/P7D"
+        },
         {
           "site": "disneyplus",
           "id": "2VX5fKgeiVEl",
