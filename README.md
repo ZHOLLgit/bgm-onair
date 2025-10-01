@@ -1,6 +1,6 @@
 # Bangumi OnAir Time
 
-时间数据来自https://github.com/bangumi-data
+时间数据来自https://github.com/bangumi-data/bangumi-data/
 
 https://bgmlist.com/
 
